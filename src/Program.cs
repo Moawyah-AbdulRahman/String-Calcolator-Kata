@@ -1,4 +1,4 @@
-﻿namespace StringCalculator.core;
+﻿namespace StringCalculatorKata.core;
 public class Program
 {
     private static void Main(string[] args)
